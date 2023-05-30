@@ -1,4 +1,4 @@
-# Simple Mine Sweeper Game in rReact
+# Simple Mine Sweeper Game in React
 
 #### We have used throughout this exercise
 
