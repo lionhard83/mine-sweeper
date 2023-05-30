@@ -6,3 +6,9 @@
     border: 1px solid gray;
     font-size: 26px;
 }
+.isShown {
+    background-color: white;
+}
+.isTrampledBomb {
+    background-color: lightsalmon;
+}
